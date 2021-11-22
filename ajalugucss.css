@@ -1,0 +1,22 @@
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%
+}
+    @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

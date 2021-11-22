@@ -1,1 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(20, 20, 20);
+
+  }
+h1 {
+    font-size: x-large;
+    text-align: center;
+    color:darkgoldenrod;
+  }
+h2 {
+    font-size: large;
+    color:darkgoldenrod;
+  }
+p {
+    color: darkgoldenrod;
+  }
 
